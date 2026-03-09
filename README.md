@@ -1,0 +1,3 @@
+Es hora de practicar todo el conocimiento de HTML que ha adquirido. En este proyecto, va a construir un sitio web de recetas básica.
+
+El sitio web consistirá en una página de índice principal que tendrá enlaces a algunas recetas. El sitio web no se verá muy bonito en el momento en que haya terminado, pero es importante tener en cuenta que el propósito de este proyecto es construir sus habilidades HTML; volveremos a visitar este proyecto en el futuro para diseñarlo con CSS.
